@@ -3,8 +3,7 @@
 header( "refresh:5;url=http://www.amusementparkent.com/" );
 
 
-//$to = "info@amusementparkent.com";
-$to = "azaeres@gmail.com";
+$to = "info@amusementparkent.com";
 
 
 $name = $_POST['contact-name'];
